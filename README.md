@@ -1,0 +1,1 @@
+To use it as a template copy it in: \Epic Games\UE_4.23\Templates
